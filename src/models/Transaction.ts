@@ -1,3 +1,4 @@
+// By Raul Brito
 import { uuid } from 'uuidv4';
 
 class Transaction {
